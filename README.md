@@ -1,2 +1,2 @@
 # consistency_model_inpainting_pytorch
-propre code for consistency_model_inpainting_pytorch
+clear code for consistency_model_inpainting_pytorch
